@@ -12,6 +12,11 @@ In fact, for recruiters it is a challenging task to handle thousands of resumes 
 - Extract relevant informations (candidate's name, email id, phone number, skills)
 - Rank candidates based on similarity scores between resumes and job description.
 
+## Screenshots
+
+![Alt home](/screenshots/home.png?raw=true "Home")
+##### Extracted informations
+![Alt Candidates](/screenshots/outputsheet.png?raw=true "Output")
 
 ## Run Locally
 
@@ -39,11 +44,5 @@ Start the web app
  python -m flask run
 ```
 
-
-## Screenshots
-
-![Alt home](/screenshots/home.png?raw=true "Home")
-##### Extracted informations
-![Alt Candidates](/screenshots/outputsheet.png?raw=true "Output")
 
 
