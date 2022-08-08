@@ -7,9 +7,9 @@ A Resume Parser helps organizations eliminate the error-prone and time-consuming
 In fact, for recruiters it is a challenging task to handle thousands of resumes manually.
 ## Features
 
-- Lightweight simple web app
-- Handle multiples documents types (pdf, doc, docx)
-- Extract relevant informations (candidate's name, email id, phone number, skills)
+- Lightweight simple web app.
+- Handle multiples documents types (pdf, doc, docx).
+- Extract relevant informations (candidate's name, email id, phone number, skills).
 - Rank candidates based on similarity scores between resumes and job description.
 
 ## Screenshots
